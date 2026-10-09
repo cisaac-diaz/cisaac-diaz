@@ -67,7 +67,7 @@ My technical interests center on building and maintaining **web, mobile, and des
 <img src="https://cdn.simpleicons.org/apple/808080" width="48" height="48" alt="Apple" title="macOS" />
 
 
-### Mobile Platforms
+### Mobile Operating Systems
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" width="48" height="48" alt="Android" title="Android" />
 &nbsp;&nbsp;
