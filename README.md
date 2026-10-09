@@ -2,7 +2,7 @@
 
 # C. Isaac Diaz
 
-### Full Stack & Application Development | IT support
+### Full Stack Developer | Software Developer | IT Support
 
 **Developing practical software solutions for web, mobile, and desktop environments.**
 
@@ -48,32 +48,31 @@ My technical interests center on building and maintaining **web, mobile, and des
 
 ![Laravel, Django, .NET, Flutter, React, Bootstrap and Node.js](https://skillicons.dev/icons?i=laravel,django,dotnet,flutter,react,bootstrap,nodejs&perline=7)
 
-CodeIgniter · ASP.NET MVC
+
 
 ### Databases
 
-![MySQL, PostgreSQL and SQLite](https://skillicons.dev/icons?i=mysql,postgres,sqlite&perline=3)
-
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&perline=3" height="48" alt="MySQL, PostgreSQL and SQLite" />&nbsp;&nbsp;
+<img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Microsoft_SQL_Server_2025_icon.svg" width="48" height="48" alt="Microsoft SQL Server 2025" title="Microsoft SQL Server 2025" />
 
 ### Development Tools
 
-![Git, GitHub, VS Code, Visual Studio, Postman, npm and Android Studio](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,npm,androidstudio&perline=7)
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,npm,androidstudio&perline=7" height="48" alt="Git, GitHub, VS Code, Visual Studio, Postman, npm and Android Studio" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" width="48" height="48" alt="Xcode" title="Xcode" />
 
 ### Desktop Operating Systems
 
-<img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="Windows" title="Windows" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" title="Linux" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=apple" width="48" height="48" alt="macOS (Apple)" title="macOS" />
 
-**Windows · Linux · macOS**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="48" height="48" alt="Windows 11" title="Windows 11" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" title="Linux" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/apple/808080" width="48" height="48" alt="Apple" title="macOS" />
+
 
 ### Mobile Platforms
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="48" height="48" alt="Android" title="Android" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=apple" width="48" height="48" alt="iOS (Apple)" title="iOS" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" width="48" height="48" alt="Android" title="Android" />
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/ios/808080" width="48" height="48" alt="iOS (Apple)" title="iOS" />
 
-**Android · iOS**
 
 <sub>Platform icons identify operating systems and development targets; they do not imply equal professional experience with every platform.</sub>
 
