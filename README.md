@@ -1,10 +1,10 @@
 <div align="center">
 
-# Cesar Isaac Diaz
+# C. Isaac Diaz
 
-### Software Engineer | Full Stack Developer
+### Computer and Systems Engineering Graduate | Full Stack & Application Development
 
-**Designing reliable applications · Building maintainable systems · Solving real-world problems**
+**Developing practical software solutions for web, mobile, and desktop environments.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-cisaac--diaz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cisaac-diaz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cisaac-diaz/)
@@ -15,22 +15,24 @@
 
 ## Professional Profile
 
-Bachelor's degree in Computer and Systems Engineering, with a technical background in information technology, software development, information systems, and IT support.
+I hold a **Bachelor's degree in Computer and Systems Engineering**, with a background in software development, information systems, technical support, and data management.
 
-Focused on building web, mobile, and desktop applications, connecting user interfaces with backend services, and managing structured data. I value clear requirements, readable code, secure application design, and maintainable solutions.
+My technical interests center on building and maintaining **web, mobile, and desktop applications**, developing backend functionality, working with relational databases, and integrating software components. I approach projects with an emphasis on clear requirements, structured code, usability, security, and maintainability.
 
-**Engineering Focus:** Full Stack Development · Backend Systems · Web Applications · Database Design · API Integration · Software Maintenance
+**Focus:** Application Development · Full Stack Web Development · Backend Services · Relational Databases · Systems Integration
 
 ---
 
 ## Technical Expertise
 
-- **Web application development:** Responsive interfaces, server-side logic, data-driven functionality, and application integration.
-- **Backend engineering:** REST APIs, authentication, authorization, validation, and business workflows.
-- **Mobile development:** Cross-platform applications and Android development; Flutter projects can also target iOS.
-- **Desktop development:** Database-connected applications and Windows desktop interfaces.
-- **Database systems:** Relational modeling, SQL queries, data integrity, and reporting.
-- **Software practices:** Modular code, version control, debugging, security awareness, and documentation.
+| Area | Focus |
+| --- | --- |
+| Web Development | User interfaces, server-side logic, responsive applications |
+| Backend & APIs | Application logic, REST API integration, authentication, data validation |
+| Mobile Development | Flutter, Dart, Kotlin, Android applications, cross-platform development |
+| Desktop Development | C#, .NET, Windows Forms, database-connected applications |
+| Database Systems | Relational data modeling, SQL, information processing and reporting |
+| Development Practices | Version control, debugging, documentation, modular design |
 
 ---
 
@@ -40,72 +42,78 @@ Focused on building web, mobile, and desktop applications, connecting user inter
 
 ### Programming Languages
 
-![Programming languages: PHP, Python, JavaScript, Java, C#, C, C++, Dart, Kotlin, R](https://skillicons.dev/icons?i=php,python,js,java,cs,c,cpp,dart,kotlin,r&perline=10)
+![PHP, Python, JavaScript, Java, C#, C, C++, Dart, Kotlin and R](https://skillicons.dev/icons?i=php,python,js,java,cs,c,cpp,dart,kotlin,r&perline=10)
 
 ### Frameworks & Libraries
 
-![Frameworks and libraries](https://skillicons.dev/icons?i=laravel,django,dotnet,flutter,react,bootstrap,nodejs&perline=7)
+![Laravel, Django, .NET, Flutter, React, Bootstrap and Node.js](https://skillicons.dev/icons?i=laravel,django,dotnet,flutter,react,bootstrap,nodejs&perline=7)
 
-**Also familiar with:** CodeIgniter · ASP.NET MVC
+CodeIgniter · ASP.NET MVC
 
 ### Databases
 
-![Database technologies](https://skillicons.dev/icons?i=mysql,postgres,sqlite&perline=3)
+![MySQL, PostgreSQL and SQLite](https://skillicons.dev/icons?i=mysql,postgres,sqlite&perline=3)
 
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logoColor=white)
 
 ### Development Tools
 
-![Development tools](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,npm,androidstudio&perline=7)
+![Git, GitHub, VS Code, Visual Studio, Postman, npm and Android Studio](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,npm,androidstudio&perline=7)
 
-### Operating Systems
+### Desktop Operating Systems
 
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-222222?style=for-the-badge&logo=linux&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-555555?style=for-the-badge&logo=apple&logoColor=white)
+<img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="Windows" title="Windows" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" title="Linux" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=apple" width="48" height="48" alt="macOS (Apple)" title="macOS" />
+
+**Windows · Linux · macOS**
 
 ### Mobile Platforms
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black)
-![iOS](https://img.shields.io/badge/iOS-555555?style=for-the-badge&logo=apple&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="48" height="48" alt="Android" title="Android" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=apple" width="48" height="48" alt="iOS (Apple)" title="iOS" />
+
+**Android · iOS**
+
+<sub>Platform icons identify operating systems and development targets; they do not imply equal professional experience with every platform.</sub>
 
 </div>
 
 ---
 
-## Featured Projects
+## Selected Projects
 
-### 01 | Professional CV Builder
+### 01 — Professional CV Builder
 
-A web application for managing professional profiles and generating structured resumes in PDF format.
+A Laravel-based application for organizing professional information and generating resumes in PDF format.
 
-**Highlights:** Profile management · Resume templates · PDF export · Authentication · Access control
+**Features:** Profile management · Resume templates · PDF generation · Authentication · Access control
 
-`Laravel` `SQLite` `PDF Generation`
+**Stack:** `PHP` `Laravel` `JavaScript` `Bootstrap` `SQLite`
 
-### 02 | Dynamic QR Attendance System
+### 02 — Dynamic QR Attendance System
 
-A school attendance management application based on dynamic QR codes and analytical reporting.
+A web application for school attendance registration using dynamic QR codes and analytical reports.
 
-**Highlights:** QR-based registration · Attendance records · Data processing · Reports
+**Features:** QR registration · Attendance records · Data processing · Reporting
 
-`Laravel` `QR Codes` `Reporting`
+**Stack:** `PHP` `Laravel` `JavaScript` `SQL`
 
-### 03 | Desktop Business Applications
+### 03 — Desktop Business Applications
 
-Desktop software for managing business information and supporting operational workflows.
+Desktop application development for structured business data and day-to-day information workflows.
 
-**Highlights:** Data entry · Database integration · CRUD operations · Validation
+**Features:** Forms · Database connectivity · CRUD operations · Data validation
 
-`C#` `.NET` `Windows Forms` `SQL Server`
+**Stack:** `C#` `.NET` `Windows Forms` `SQL Server`
 
 ---
 
-## Engineering Approach
+## Development Approach
 
-> Build software that is understandable, dependable, secure, and practical to maintain.
+> I aim to create software that is useful, understandable, secure, and maintainable.
 
-**Clean Design** · **Maintainability** · **Security** · **Performance** · **Testing** · **Continuous Improvement**
+**Clarity** · **Modularity** · **Quality** · **Security** · **Continuous Learning**
 
 ---
 
@@ -113,9 +121,9 @@ Desktop software for managing business information and supporting operational wo
 
 <div align="center">
 
-![GitHub statistics](https://github-readme-stats.vercel.app/api?username=cisaac-diaz&show_icons=true&theme=github_dark&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=cisaac-diaz&show_icons=true&theme=github_dark&hide_border=true)
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cisaac-diaz&layout=compact&theme=github_dark&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cisaac-diaz&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
 
