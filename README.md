@@ -2,7 +2,7 @@
 
 # C. Isaac Diaz
 
-### Computer and Systems Engineering Graduate | Full Stack & Application Development
+### Full Stack & Application Development | IT support
 
 **Developing practical software solutions for web, mobile, and desktop environments.**
 
@@ -78,34 +78,6 @@ CodeIgniter · ASP.NET MVC
 <sub>Platform icons identify operating systems and development targets; they do not imply equal professional experience with every platform.</sub>
 
 </div>
-
----
-
-## Selected Projects
-
-### 01 — Professional CV Builder
-
-A Laravel-based application for organizing professional information and generating resumes in PDF format.
-
-**Features:** Profile management · Resume templates · PDF generation · Authentication · Access control
-
-**Stack:** `PHP` `Laravel` `JavaScript` `Bootstrap` `SQLite`
-
-### 02 — Dynamic QR Attendance System
-
-A web application for school attendance registration using dynamic QR codes and analytical reports.
-
-**Features:** QR registration · Attendance records · Data processing · Reporting
-
-**Stack:** `PHP` `Laravel` `JavaScript` `SQL`
-
-### 03 — Desktop Business Applications
-
-Desktop application development for structured business data and day-to-day information workflows.
-
-**Features:** Forms · Database connectivity · CRUD operations · Data validation
-
-**Stack:** `C#` `.NET` `Windows Forms` `SQL Server`
 
 ---
 
