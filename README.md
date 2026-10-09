@@ -47,15 +47,20 @@ My technical interests center on building and maintaining **web, mobile, and des
 
 ### Frameworks & Libraries
 
-<img src="https://skillicons.dev/icons?i=laravel,django,dotnet,flutter,react,bootstrap,nodejs&theme=dark&perline=7" height="48" alt="Frameworks and Libraries" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="48" height="48" alt="CodeIgniter" title="CodeIgniter" />
+<img src="https://skillicons.dev/icons?i=laravel,django,dotnet,flutter,react,bootstrap,nodejs&theme=dark&perline=7" height="48" alt="Frameworks and Libraries" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="48" height="48" alt="CodeIgniter" />
 
 ### Databases
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark&perline=3" height="48" alt="MySQL, PostgreSQL and SQLite" />&nbsp;&nbsp;<img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Microsoft_SQL_Server_2025_icon.svg" width="48" height="48" alt="SQL Server 2025" title="SQL Server 2025" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark&perline=3" height="48" alt="Databases" />&nbsp;&nbsp;
+<img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Microsoft_SQL_Server_2025_icon.svg" width="48" height="48" alt="SQL Server 2025" />
 
 ### Development Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,npm,androidstudio,vite,powershell&theme=dark&perline=9" alt="Development Tools" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" width="48" height="48" alt="Xcode" title="Xcode" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" width="48" height="48" alt="Composer" title="Composer" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,npm,androidstudio,vite,powershell&theme=dark&perline=9" alt="Development Tools" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" width="48" height="48" alt="Xcode" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" width="48" height="48" alt="Composer" />
+
 
 ### Desktop Operating Systems
 
