@@ -1,14 +1,13 @@
-
 <div align="center">
 
 # Cesar Isaac Diaz
 
 ### Software Engineer | Full Stack Developer
 
-**Designing scalable systems. Building reliable software. Delivering impactful solutions.**
+**Designing reliable applications · Building maintainable systems · Solving real-world problems**
 
-[![GitHub](https://img.shields.io/badge/GitHub-cisaac--diaz-181717?style=for-the-badge&logo=github)](https://github.com/cisaac-diaz)
-![Profile Views](https://komarev.com/ghpvc/?username=cisaac-diaz&style=for-the-badge&color=0A66C2)
+[![GitHub](https://img.shields.io/badge/GitHub-cisaac--diaz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cisaac-diaz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cisaac-diaz/)
 
 </div>
 
@@ -16,244 +15,107 @@
 
 ## Professional Profile
 
-Software Engineer and Full Stack Developer with an academic background in Computer and Systems Engineering and hands-on experience in software development, information systems, and IT operations.
+Bachelor's degree in Computer and Systems Engineering, with a technical background in information technology, software development, information systems, and IT support.
 
-Focused on designing, developing, integrating, and maintaining reliable software solutions across web, mobile, and desktop environments.
+Focused on building web, mobile, and desktop applications, connecting user interfaces with backend services, and managing structured data. I value clear requirements, readable code, secure application design, and maintainable solutions.
 
-My engineering approach emphasizes clean architecture, modular design, maintainability, security, performance, and long-term scalability.
-
-**Core Areas of Focus**
-
-`Software Engineering` · `Full Stack Development` · `Backend Engineering` · `REST APIs` · `Database Design` · `System Integration` · `Software Architecture`
+**Engineering Focus:** Full Stack Development · Backend Systems · Web Applications · Database Design · API Integration · Software Maintenance
 
 ---
 
 ## Technical Expertise
 
-### Programming Languages
-
-<div align="center">
-
-![Languages](https://skillicons.dev/icons?i=php,python,js,java,cs,c,cpp,dart,kotlin,r)
-
-</div>
-
-### Backend Engineering
-
-- PHP / Laravel / CodeIgniter
-- Python / Django
-- C# / ASP.NET MVC / .NET
-- Java
-- RESTful API Design
-- Authentication and Authorization
-- Application Architecture
-- Business Logic and System Integration
-
-### Frontend Engineering
-
-- HTML5 / CSS3 / JavaScript
-- React
-- Bootstrap
-- Responsive Web Design
-- Component-Based Development
-- API Integration
-
-### Mobile Development
-
-- Flutter / Dart
-- Android / Kotlin
-- Cross-Platform Application Development
-- Mobile UI Design
-- REST API Integration
-- Android and iOS Application Targets
-
-### Desktop Engineering
-
-- C# / Windows Forms
-- .NET Framework / .NET
-- Database-Driven Desktop Applications
-- Business Process Automation
-- Desktop Application Architecture
+- **Web application development:** Responsive interfaces, server-side logic, data-driven functionality, and application integration.
+- **Backend engineering:** REST APIs, authentication, authorization, validation, and business workflows.
+- **Mobile development:** Cross-platform applications and Android development; Flutter projects can also target iOS.
+- **Desktop development:** Database-connected applications and Windows desktop interfaces.
+- **Database systems:** Relational modeling, SQL queries, data integrity, and reporting.
+- **Software practices:** Modular code, version control, debugging, security awareness, and documentation.
 
 ---
 
-## Technology Ecosystem
+## Technology Stack
 
 <div align="center">
+
+### Programming Languages
+
+![Programming languages: PHP, Python, JavaScript, Java, C#, C, C++, Dart, Kotlin, R](https://skillicons.dev/icons?i=php,python,js,java,cs,c,cpp,dart,kotlin,r&perline=10)
 
 ### Frameworks & Libraries
 
-![Frameworks](https://skillicons.dev/icons?i=laravel,django,dotnet,flutter,react,bootstrap,nodejs)
+![Frameworks and libraries](https://skillicons.dev/icons?i=laravel,django,dotnet,flutter,react,bootstrap,nodejs&perline=7)
 
-### Database Technologies
+**Also familiar with:** CodeIgniter · ASP.NET MVC
 
-![Databases](https://skillicons.dev/icons?i=mysql,postgres,sqlite)
+### Databases
 
-**Microsoft SQL Server**
+![Database technologies](https://skillicons.dev/icons?i=mysql,postgres,sqlite&perline=3)
+
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 ### Development Tools
 
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,npm,androidstudio)
+![Development tools](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,npm,androidstudio&perline=7)
 
 ### Operating Systems
 
-<img src="https://cdn.simpleicons.org/windows11/0078D4" height="45" alt="Windows" title="Windows"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/linux/FCC624" height="45" alt="Linux" title="Linux"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/apple/808080" height="45" alt="macOS" title="macOS"/>
-
-<br/>
-
-**Windows · Linux · macOS**
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-222222?style=for-the-badge&logo=linux&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-555555?style=for-the-badge&logo=apple&logoColor=white)
 
 ### Mobile Platforms
 
-<img src="https://cdn.simpleicons.org/android/3DDC84" height="45" alt="Android" title="Android"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/apple/808080" height="45" alt="iOS" title="iOS"/>
-
-<br/>
-
-**Android · iOS**
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black)
+![iOS](https://img.shields.io/badge/iOS-555555?style=for-the-badge&logo=apple&logoColor=white)
 
 </div>
 
 ---
 
-## Software Engineering Competencies
+## Featured Projects
 
-| Engineering Domain | Focus Areas |
-|---|---|
-| Software Architecture | Modular Design, Separation of Concerns, Maintainability |
-| Backend Development | Business Logic, APIs, Authentication, Authorization |
-| Frontend Development | Responsive Design, Component-Based Interfaces |
-| Database Engineering | Relational Modeling, SQL, Data Integrity |
-| Software Security | Access Control, Input Validation, Secure Coding |
-| System Integration | API Integration, Data Exchange, Interoperability |
-| Quality Engineering | Debugging, Testing, Code Review |
-| Development Workflow | Git, Version Control, Dependency Management |
+### 01 | Professional CV Builder
 
----
+A web application for managing professional profiles and generating structured resumes in PDF format.
 
-## Selected Projects
+**Highlights:** Profile management · Resume templates · PDF export · Authentication · Access control
 
-### 01 — Professional CV Management Platform
+`Laravel` `SQLite` `PDF Generation`
 
-**Full Stack Web Application | Laravel Ecosystem**
+### 02 | Dynamic QR Attendance System
 
-A web-based platform designed to manage professional profiles and generate structured resumes in PDF format.
+A school attendance management application based on dynamic QR codes and analytical reporting.
 
-**Key Capabilities**
+**Highlights:** QR-based registration · Attendance records · Data processing · Reports
 
-- Profile and resume management
-- Multiple resume templates
-- Dynamic PDF generation
-- Authentication and access control
-- Structured data management
-- Responsive user interfaces
+`Laravel` `QR Codes` `Reporting`
 
-**Technology Stack**
+### 03 | Desktop Business Applications
 
-`PHP` `Laravel` `JavaScript` `Bootstrap` `SQLite`
+Desktop software for managing business information and supporting operational workflows.
 
----
-
-### 02 — Dynamic QR Attendance Management System
-
-**Web Application | Information Systems**
-
-An attendance management solution built around dynamic QR code technology and analytical reporting.
-
-**Key Capabilities**
-
-- Dynamic QR-based attendance registration
-- Attendance data management
-- Analytical reports
-- Administrative interfaces
-- Structured attendance records
-- Data processing and reporting
-
-**Technology Stack**
-
-`PHP` `Laravel` `JavaScript` `SQL`
-
----
-
-### 03 — Business Desktop Applications
-
-**Desktop Software | .NET Ecosystem**
-
-Desktop applications designed to support business workflows, operational processes, and structured information management.
-
-**Key Capabilities**
-
-- Business data management
-- Database connectivity
-- Windows desktop interfaces
-- CRUD operations
-- Workflow automation
-- Data validation and processing
-
-**Technology Stack**
+**Highlights:** Data entry · Database integration · CRUD operations · Validation
 
 `C#` `.NET` `Windows Forms` `SQL Server`
 
 ---
 
-## Engineering Philosophy
+## Engineering Approach
 
-> Good software is not only about writing code.
-> It is about designing reliable, secure, maintainable,
-> and scalable solutions that solve real problems.
+> Build software that is understandable, dependable, secure, and practical to maintain.
 
-**Principles I Value**
-
-- **Clean Architecture** — Clear responsibilities and modular components.
-- **Code Quality** — Readability, consistency, and maintainability.
-- **Security by Design** — Security considerations throughout development.
-- **Performance** — Efficient processing and responsible resource usage.
-- **Scalability** — Designing with future requirements in mind.
-- **Continuous Improvement** — Learning, refining, and optimizing solutions.
+**Clean Design** · **Maintainability** · **Security** · **Performance** · **Testing** · **Continuous Improvement**
 
 ---
 
-## GitHub Insights
+## GitHub Activity
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=cisaac-diaz&show_icons=true&theme=github_dark&hide_border=true"
-  alt="GitHub Statistics"
-/>
+![GitHub statistics](https://github-readme-stats.vercel.app/api?username=cisaac-diaz&show_icons=true&theme=github_dark&hide_border=true)
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cisaac-diaz&layout=compact&theme=github_dark&hide_border=true"
-  alt="Most Used Languages"
-/>
-
-</div>
-
----
-
-## Areas of Interest
-
-- Software Architecture & System Design
-- Full Stack Web Engineering
-- Backend Systems & APIs
-- Mobile Application Development
-- Database Systems
-- Software Modernization
-- Automation & Developer Productivity
-- Secure Application Development
-
----
-
-## Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repositories-181717?style=for-the-badge&logo=github)](https://github.com/cisaac-diaz?tab=repositories)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cisaac-diaz&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
 
@@ -261,8 +123,8 @@ Desktop applications designed to support business workflows, operational process
 
 <div align="center">
 
-### Engineering Software with Purpose.
+**Design · Develop · Improve**
 
-**Design · Develop · Optimize · Evolve**
+[Explore my repositories](https://github.com/cisaac-diaz?tab=repositories)
 
 </div>
