@@ -89,17 +89,33 @@ My engineering approach emphasizes clean architecture, modular design, maintaina
 
 ![Databases](https://skillicons.dev/icons?i=mysql,postgres,sqlite)
 
-Microsoft SQL Server
+**Microsoft SQL Server**
 
 ### Development Tools
 
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,npm)
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,npm,androidstudio)
 
-### Operating Systems & Platforms
+### Operating Systems
 
-![Platforms](https://skillicons.dev/icons?i=windows,linux,ubuntu,apple,androidstudio)
+<img src="https://cdn.simpleicons.org/windows11/0078D4" height="45" alt="Windows" title="Windows"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/linux/FCC624" height="45" alt="Linux" title="Linux"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/apple/808080" height="45" alt="macOS" title="macOS"/>
 
-**Windows · Linux · macOS · Android · iOS**
+<br/>
+
+**Windows · Linux · macOS**
+
+### Mobile Platforms
+
+<img src="https://cdn.simpleicons.org/android/3DDC84" height="45" alt="Android" title="Android"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/apple/808080" height="45" alt="iOS" title="iOS"/>
+
+<br/>
+
+**Android · iOS**
 
 </div>
 
@@ -129,6 +145,7 @@ Microsoft SQL Server
 A web-based platform designed to manage professional profiles and generate structured resumes in PDF format.
 
 **Key Capabilities**
+
 - Profile and resume management
 - Multiple resume templates
 - Dynamic PDF generation
@@ -149,6 +166,7 @@ A web-based platform designed to manage professional profiles and generate struc
 An attendance management solution built around dynamic QR code technology and analytical reporting.
 
 **Key Capabilities**
+
 - Dynamic QR-based attendance registration
 - Attendance data management
 - Analytical reports
@@ -169,6 +187,7 @@ An attendance management solution built around dynamic QR code technology and an
 Desktop applications designed to support business workflows, operational processes, and structured information management.
 
 **Key Capabilities**
+
 - Business data management
 - Database connectivity
 - Windows desktop interfaces
