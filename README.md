@@ -42,11 +42,12 @@ My technical interests center on building and maintaining **web, mobile, and des
 
 ### Programming Languages
 
-![PHP, Python, JavaScript, Java, C#, C, C++, Dart, Kotlin and R](https://skillicons.dev/icons?i=php,python,js,java,cs,c,cpp,dart,kotlin,r&perline=10)
+![Programming Languages](https://skillicons.dev/icons?i=php,python,js,ts,java,cs,c,cpp,dart,kotlin,swift,r&perline=12)
+
 
 ### Frameworks & Libraries
 
-![Laravel, Django, .NET, Flutter, React, Bootstrap and Node.js](https://skillicons.dev/icons?i=laravel,django,dotnet,flutter,react,bootstrap,nodejs&perline=7)
+<img src="https://skillicons.dev/icons?i=laravel,django,dotnet,flutter,react,bootstrap,nodejs&perline=7" height="48" alt="Laravel, Django, .NET, Flutter, React, Bootstrap and Node.js" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="48" height="48" alt="CodeIgniter" title="CodeIgniter" />
 
 
 
@@ -57,10 +58,10 @@ My technical interests center on building and maintaining **web, mobile, and des
 
 ### Development Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,npm,androidstudio&perline=7" height="48" alt="Git, GitHub, VS Code, Visual Studio, Postman, npm and Android Studio" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" width="48" height="48" alt="Xcode" title="Xcode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,npm,androidstudio,vite,powershell&perline=9" alt="Git, GitHub, VS Code, Visual Studio, Postman, npm, Android Studio, Vite and PowerShell"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" width="48" height="48" alt="Xcode"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" width="48" height="48" alt="Composer"/>
+
 
 ### Desktop Operating Systems
-
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="48" height="48" alt="Windows 11" title="Windows 11" />&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" title="Linux" />&nbsp;&nbsp;
