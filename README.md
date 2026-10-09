@@ -36,43 +36,39 @@ My technical interests center on building and maintaining **web, mobile, and des
 
 ---
 
+
 ## Technology Stack
 
 <div align="center">
 
 ### Programming Languages
 
-![Programming Languages](https://skillicons.dev/icons?i=php,python,js,ts,java,cs,c,cpp,dart,kotlin,swift,r&perline=12)
-
+<img src="https://skillicons.dev/icons?i=php,python,js,ts,java,cs,c,cpp,dart,kotlin,swift,r&theme=dark&perline=12" alt="Programming Languages" />
 
 ### Frameworks & Libraries
 
-<img src="https://skillicons.dev/icons?i=laravel,django,dotnet,flutter,react,bootstrap,nodejs&perline=7" height="48" alt="Laravel, Django, .NET, Flutter, React, Bootstrap and Node.js" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="48" height="48" alt="CodeIgniter" title="CodeIgniter" />
-
-
+<img src="https://skillicons.dev/icons?i=laravel,django,dotnet,flutter,react,bootstrap,nodejs&theme=dark&perline=7" height="48" alt="Frameworks and Libraries" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="48" height="48" alt="CodeIgniter" title="CodeIgniter" />
 
 ### Databases
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&perline=3" height="48" alt="MySQL, PostgreSQL and SQLite" />&nbsp;&nbsp;
-<img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Microsoft_SQL_Server_2025_icon.svg" width="48" height="48" alt="Microsoft SQL Server 2025" title="Microsoft SQL Server 2025" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark&perline=3" height="48" alt="MySQL, PostgreSQL and SQLite" />&nbsp;&nbsp;<img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Microsoft_SQL_Server_2025_icon.svg" width="48" height="48" alt="SQL Server 2025" title="SQL Server 2025" />
 
 ### Development Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,npm,androidstudio,vite,powershell&perline=9" alt="Git, GitHub, VS Code, Visual Studio, Postman, npm, Android Studio, Vite and PowerShell"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" width="48" height="48" alt="Xcode"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" width="48" height="48" alt="Composer"/>
-
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,npm,androidstudio,vite,powershell&theme=dark&perline=9" alt="Development Tools" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" width="48" height="48" alt="Xcode" title="Xcode" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" width="48" height="48" alt="Composer" title="Composer" />
 
 ### Desktop Operating Systems
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="48" height="48" alt="Windows 11" title="Windows 11" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" title="Linux" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/apple/808080" width="48" height="48" alt="Apple" title="macOS" />
-
+<img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" height="48" alt="Linux" title="Linux" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/apple/808080" width="48" height="48" alt="macOS" title="macOS" />
 
 ### Mobile Operating Systems
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" width="48" height="48" alt="Android" title="Android" />
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/ios/808080" width="48" height="48" alt="iOS (Apple)" title="iOS" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" width="48" height="48" alt="Android" title="Android" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/ios/808080" width="48" height="48" alt="iOS" title="iOS" />
+
+</div>
 
 
 <sub>Platform icons identify operating systems and development targets; they do not imply equal professional experience with every platform.</sub>
